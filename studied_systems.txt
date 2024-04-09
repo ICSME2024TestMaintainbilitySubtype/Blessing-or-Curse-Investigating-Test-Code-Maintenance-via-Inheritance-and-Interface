@@ -1,0 +1,12 @@
+cayenne, 76d31a7e1f86ac5edfb64ef445a83278abd8f180,https://github.com/apache/cayenne.git
+commons-collections, c859f528397259ea8c052908ed1410fa1c8c9304,https://github.com/apache/commons-collections.git
+cucumber-jvm, a8ea7af76a383c8a7e222254c6489cc1f140a3cb,https://github.com/cucumber/cucumber-jvm.git
+cxf, bc36018b48a2e877432a90bf066deda81156183a,https://github.com/apache/cxf.git
+httpcomponents-client, e6ad081b3c1612a538f0108813cd7c10870d26f9,https://github.com/apache/httpcomponents-client.git
+iotdb, 86a6fcd5e44d86b82cbede35b7eeda2a0069dfdc,https://github.com/apache/iotdb.git
+jclouds, 468b126dd856b48ff89f423b649ec4e3b19af012,https://github.com/apache/jclouds.git
+kylin, a23e917aca704fe65ea6c99f3ce18fd45d6229db,https://github.com/apache/kylin.git
+maven, 706d9319f14b507f3c3deeba4eeda1a51a531c9b,https://github.com/apache/maven.git
+ranger, 8235a8e17465dd63658ab370fd6f70ccaee5b736,https://github.com/apache/ranger.git
+ratis, 94db58b9fc5a855beba51fdd04e31f899ef96abc,https://github.com/apache/ratis.git
+wicket, d365e04af2076f41a04fb3ca624517f2c83d75c8,https://github.com/apache/wicket.git
