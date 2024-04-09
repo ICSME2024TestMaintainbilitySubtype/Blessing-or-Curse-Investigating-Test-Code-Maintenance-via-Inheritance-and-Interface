@@ -16,7 +16,9 @@
 | ratis | ae25f1c1fd9c09feb89beb1fb83a2821ca231e36   | 94db58b9fc5a855beba51fdd04e31f899ef96abc   |
 | wicket | f92c2a5ad87198c9e446b271a713942bb89d89d2   | d365e04af2076f41a04fb3ca624517f2c83d75c8   |
 
-
+## Raw Dataset
+- Go to https://zenodo.org/records/8388304 to download raw dataset.
+  
 ## RQ2: Qualitative Dataset
 - For our RQ2 qualitative analysis on why test inheritance change, go to:
   - /dataset/RQ2_Analysis.csv
